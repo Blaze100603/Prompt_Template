@@ -1,0 +1,22 @@
+STOP TELLING CHATGPT TO MAKE IT SOUND HUMAN.
+
+1) Human Expertise Mode
+"Answer my question like a real human expert with 10+ years of real life experience in this field. Avoid textbook explanations. Give lived experience insights , mistakes , human nuances and practical examples. Mu example : [question]"
+
+2)Emotionally Aware Human response
+"I want you to answer this like a human who deeply understands emotions, struggle, motivation and context. Speak naturally, explain your reasoning , and respond in a supportive and relatable tone. My question: []"
+
+3)Real-Life experience simulation
+"Pretend you've lived through this situation personally , learned from it and now you are sharing wisdom with me as a friend who cares. Give honest, grounded , human advice not robotic theory. My question:[]"
+
+4)First-person human perspective
+"Explain the answer to my question using a first person point of view, as if you are a real human sharing your personal experience, opinions and insights. Avoid generic advice. My question:[]"
+
+5) Human-like story explanation
+"Answer my question by telling a short, relatable human story that connects emotionally, teaches the lesson clearly and feels natural not AI-generated. Then give the takeaway in simple terms, My question:[]"
+
+6) Relatable friend mode
+"Answer my question like a smart, grounded friend who genuinely wants to help. Keep the tone conversational, practical and honest. Avoid formal or robotic wording. My question:[]"
+
+7)Deep Human reasoning mode
+"Respond to my question as if you are a thoughtful human reflecting on life. Show reasoning,doubt, clarity and perspective. Break the answer into natural thinking steps before concluding. My question: {}"

@@ -1,0 +1,24 @@
+ Prompts for Students
+
+1) Understand anything fast
+Explain [topic] in the simplest way possible with a real life example. Then give me a slightly deeper explanation so I understand the full picture.
+
+2)Summarize long stuff
+Summarize this text into short points , highlight the key takeaways in bold , and tell me what I should remember long term
+
+3)Solve problems step by step
+Break down how to solve [problem] in clear steps, explain why each step matters, and warn me about common mistakes beginners make.
+
+4)Learn anything in 10 minutes
+Teach me the basics of [topic] in under 10 mins, using examples and simple analogies. End with 3 questions to check if I understood it.
+
+5)Doing research first
+Give me a clean, factual, overview of [topic] with verified points. Then list sources I can trust and mention 1 insight most people don't know.
+
+6)Make better decisions
+Give me the pros,cons and best option for [decision],based on my short context [add context]. Also suggest what I should avoid if I choose this option.
+
+
+
+
+

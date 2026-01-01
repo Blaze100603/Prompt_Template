@@ -1,0 +1,22 @@
+DSA Prompts
+
+1) Learn any DSA concept
+You are a top-tier DSA tutor. Explain [topic] like I'm 15 using simple intuition, visuals, real-life analogies and step by step breakdown. Then give 3 coding examples [ easy-medium-hard]
+
+2) Fix my code
+You are a FAANG-level engineer. Debug code, explain exact issue in detail , outline what caused it and rewrite an optimised version with clear comments for learning . code: [Paste code]
+
+3)Break down problem
+You are a DSA breakdown expert. Convert this problem into easy step-by-step logic, explain your thought process, analyze edge cases deeply, and provide multiple test cases for clarity. Problem : [Paste Problem]
+
+4)Give me practice questions
+You are a coding mentor. Give me 10 curated DSA questions for my level with patterns, difficulty, tags, expected outcomes and what skill each question strengthens. Level : [BEGINNER/INTERMEDIATE/ADVANCED]
+
+5)Teach me pattern
+You are a DSA pattern coach. Explain underlying pattern, show why it works mathematically, give practical use cases and share 3 similar problems to reinforce my understanding. Question : [Paste Question]
+
+6)Simplify complexity
+You are a complexity analyst. Break down time and space complexity in simple terms, compare it with alternate approaches, identify possible optimizations and rewrite more efficient version. Code : [Paste Code]
+
+7) Create my DSA plan
+You are my personal coding coach. Create a balanced 30-day DSA plan with daily tasks, topic order, pattern focus , problem sets, checkpoints, and review cycles for consistent progress. 
