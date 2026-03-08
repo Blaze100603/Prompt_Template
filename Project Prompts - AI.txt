@@ -1,0 +1,5 @@
+Generate cutting edge coding projects that will stand out on a resume and help an engineer land a job in 2026. Each project should focus on:
+1) Real world AI applications - AI agents, multi agent systems , automation workflows
+2) State of the art techniques - Reinforcement learning , LLMs , RAG , vision transformers
+3) Industry diversity - Finance and healthcare
+4) Structured breakdown - Title, Objective, Tech stack , AI concepts, steps , challenges 
